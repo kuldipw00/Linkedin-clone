@@ -1,0 +1,14 @@
+.app{
+  background-color: #f3f2ef;
+  display: flex;
+  flex-direction: column;
+  
+}
+
+.app_body{
+  display:flex;
+  margin-top: 30px;
+  padding-left:200px;
+  padding-right:200px;
+  margin-bottom: 165px;
+}
